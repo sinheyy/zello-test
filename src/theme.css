@@ -1,0 +1,4 @@
+:root[data-theme='dark'] {
+  --background: #111;
+  --foreground: #eee;
+}
